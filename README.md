@@ -806,4 +806,11 @@ The model then predicts the next word and continues until the sentence is comple
 
 Conclusion
 A Large Language Model (LLM) is a Transformer-based AI model trained on massive text datasets to understand and generate human-like language. Building an LLM involves data collection, data cleaning, tokenization, embeddings, Transformer training, pre-training, fine-tuning, evaluation, and deployment. During operation, it generates text using next-token prediction, making it capable of answering questions, writing content, translating languages, and much more.
+
+Overall conclusion:
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8db56f23-d594-4da8-9695-dde72f302235" />
+
+ChatGPT provided more detailed explanations, creative presentations, examples, and diagrams. Copilot provided simple, clear, and concise explanations. Both AI tools were useful for understanding Generative AI and Large Language Models. However, ChatGPT was more effective in providing detailed academic content, while Copilot was useful for quick understanding and summaries.
 # Result
+The five prompts were successfully designed to explore different aspects of Generative AI, including its foundational concepts, architectures, applications, scaling in Large Language Models (LLMs), and the process of building an LLM. The prompts were tested using ChatGPT and Google Gemini to obtain responses and understand how both AI tools handle the given topics.
